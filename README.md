@@ -1,6 +1,8 @@
-# IPL First Innings Score Prediction - Deployment
+#**Title: IPL First Innings Score Prediction** 
 
-• This repository consists of files required to deploy a ___Machine Learning Web App___ created with ___Flask___ on ___Azure___ platform.
+## **1. Methodology**
+
+<img src="https://user-images.githubusercontent.com/7460892/207003643-e03c8964-3f16-4a62-9a2d-b1eec5d8691f.png" width="80%" height="80%">
 
 • If you want to view the deployed model, click on the following link:<br />
 Deployed at: _https://iplscorepredictor.azurewebsites.net_
