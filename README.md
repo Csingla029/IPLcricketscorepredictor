@@ -12,8 +12,12 @@
 ## **3. Input/Output**
 ![image](https://user-images.githubusercontent.com/83897460/207534680-01d86e9e-bd6d-431d-89a8-67e1a916b33f.png)
 
+ ## **4. Live Link**
+ * _https://iplscorepredictor.azurewebsites.net_
 
-• If you want to view the deployed model, click on the following link:<br />
-Deployed at: _https://iplscorepredictor.azurewebsites.net_
+## **5. Screenshot of the Interface**
+![image](https://user-images.githubusercontent.com/83897460/207535338-942617fe-2518-413e-97ae-a2d9df291030.png)
+
+
 
 
